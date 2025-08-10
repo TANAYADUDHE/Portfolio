@@ -1,4 +1,4 @@
-This is the portfolio project.Display the my portfolio.
+This is the portfolio project.
 <img width="1878" height="923" alt="image" src="https://github.com/user-attachments/assets/b17d5b07-b25d-46d1-ae09-360750daa3ff" />
 # Portfolio Website
 
